@@ -1,4 +1,4 @@
-# StateSearch-CheckersAI
+# StateSearch-AI
 
 ## Project Description
 This project implements a solver for a tile sliding puzzle that is a variant of the traditional **Hua Rong Dao** (or **Klotski**) puzzle. The goal of the puzzle is to rearrange the pieces into a specified goal configuration by sliding the pieces into blank spaces.
